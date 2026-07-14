@@ -1,0 +1,9 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "references": {
+    "rocketable-platform": {
+      "repository": "https://github.com/Rocketable/platform/",
+      "description": "Use as the canonical reference for Rocketclaw skill structure and conventions."
+    }
+  }
+}
